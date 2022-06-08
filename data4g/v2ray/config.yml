@@ -157,7 +157,7 @@ update_xrayr() {
 
 # Install xrayr
 install_xrayr() {
-  bash <(curl -Ls https://raw.githubusercontent.com/azvpn/xrayr/main/v2ray/azvpn/install.sh)
+  bash <(curl -Ls https://raw.githubusercontent.com/data4g/xrayr/master/install.sh)
   clear
  pre_install
  config_xrayr
