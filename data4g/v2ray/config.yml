@@ -93,8 +93,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, Proxypanel
     ApiConfig:
-      ApiHost: "https://go.azvpn.me"
-      ApiKey: "azvpn.me_azvpn.me"
+      ApiHost: "https://data4g.net"
+      ApiKey: "data4g.net_data4g.net"
       NodeID: 41
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
