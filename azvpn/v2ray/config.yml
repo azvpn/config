@@ -16,8 +16,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, , Proxypanel
     ApiConfig:
-      ApiHost: "https://go.azvpn.me"
-      ApiKey: "azvpn.me_azvpn.me"
+      ApiHost: "https://cnkaimen.com"
+      ApiKey: "cnkaimen.com_cnkaimen.com"
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
